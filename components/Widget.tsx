@@ -82,7 +82,7 @@ function Widget() {
         {/* Today's Puzzles */}
         <div className="p-3">
           <h3 className="text-xs font-semibold text-gray-600 dark:text-gray-400 mb-2">
-            Today's puzzles
+            Today&apos;s puzzles
           </h3>
           <div className="cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 -mx-3 px-3 py-2 rounded">
             <div className="flex items-start">
@@ -116,7 +116,7 @@ function Widget() {
       <div className="mt-4 bg-white dark:bg-gray-800 rounded-lg border border-gray-300 dark:border-gray-700 overflow-hidden">
         <div className="p-4 text-center">
           <h3 className="text-sm font-semibold text-gray-900 dark:text-gray-100 mb-2">
-            See who's hiring on LinkedIn
+            See who&apos;s hiring on LinkedIn
           </h3>
           <p className="text-xs text-gray-600 dark:text-gray-400 mb-3">
             Discover opportunities from companies actively recruiting
