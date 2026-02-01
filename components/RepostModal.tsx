@@ -184,7 +184,7 @@ export default function RepostModal({ post, onClose }: RepostModalProps) {
             <div className="text-left">
               <p className="font-semibold">Repost</p>
               <p className="text-xs text-gray-500">
-                Instantly bring this post to others' feeds
+                Instantly bring this post to others&apos; feeds
               </p>
             </div>
           </button>
