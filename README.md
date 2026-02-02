@@ -2,6 +2,10 @@
 
 A modern LinkedIn clone built with Next.js 14, featuring real-time updates, authentication, and a rich social media experience.
 
+## Demo Video
+
+https://github.com/user-attachments/assets/cad5bb59-c01d-4e9d-b3ab-84a12a199d3b
+
 ## Features
 
 ### Core Functionality
